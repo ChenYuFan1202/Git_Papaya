@@ -22,5 +22,11 @@
 - 無論是用 ```SHA1``` 或是 ```HEAD``` 都會覆蓋工作目錄和暫存區。  
 - ```git checkout -- <filename>``` 只會覆蓋工作目錄，這等價 ```git restore <filename>```。
 
-### git clone
+### ```git clone```
 複製 GitHub 上的 repo 時，複製下來的結果會用資料夾包著，因此，還會需要用 cd 進入此資料夾。
+
+### ```git branch```
+使用此指令可以知道目前是在哪個分支。
+
+### ```git checkout -b <branchname>```
+建立並切換到新分支。
