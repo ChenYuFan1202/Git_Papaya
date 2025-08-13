@@ -1,1 +1,2 @@
-# 此筆記內容整理自 YouTube 頻道「PAPAYA 電腦教室」的 <a href="https://www.youtube.com/watch?v=FKXRiAiQFiY">Git 教學影片</a>，僅作為個人學習紀錄之用。 
+# 此筆記內容整理自 YouTube 頻道「PAPAYA 電腦教室」的 <a href="https://www.youtube.com/watch?v=FKXRiAiQFiY">Git 教學影片</a>，僅作為個人學習紀錄之用。
+詳細內容請點擊 <a href=https://github.com/ChenYuFan1202/Git_Papaya/blob/master/Mynotes.md>Mynotes.md</a>。 
